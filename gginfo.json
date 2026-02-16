@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [],
+		"css": []
+	},
+	"skin": {},
+	"vrskin": {},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2026-02-14T12:25:32.778Z",
+	"configuration": "pano.xml",
+	"preview": {
+		"img": "preview.jpg"
+	}
+}
